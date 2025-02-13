@@ -5,7 +5,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://chetna-jha-qc.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin] (https://www.linkedin.com/in/chetna-jha-39497a238/)
+- 📬 How to reach me: [Let's get in touch!][linkedin]
 
 ### Languages and Tools: 
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
