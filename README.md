@@ -27,4 +27,4 @@
 ### Things I love:
 - Web Development <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8ybWlqampqcXM5eTkyancwOHh2MWkybXZudHJ5OWk4OWl2bTI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="40"> 
 - Python <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhiaHpnNTF1eWhuanlmanNyZmI4MGk4Nmo2aDJvajB1d3Z6bjU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="40">
-- Backend Development ✍️ <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yZ41P3YdMYMiyFPAPrzyGw.gif" width="65">
+- Backend Development ✍️ <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yZ41P3YdMYMiyFPAPrzyGw.gif" width="165">
