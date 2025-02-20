@@ -29,7 +29,7 @@
 - Python <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhiaHpnNTF1eWhuanlmanNyZmI4MGk4Nmo2aDJvajB1d3Z6bjU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="70">
 - Backend Development ✍️
  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yZ41P3YdMYMiyFPAPrzyGw.gif" width="165">
-
+<!--
 ### Git Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetna-Jha-QC&show_icons=true&theme=default)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetna-Jha-QC&show_icons=true&theme=default) -->
