@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 ### Hi, am Chetna Jha 👋
 [![Linkedin Badge](https://img.shields.io/badge/-chetna--jha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetna-jha-39497a238/)](https://www.linkedin.com/in/chetna-jha-39497a238/)
 [![Gmail Badge](https://img.shields.io/badge/-ms.chetnajha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ms.chetnajha@gmail.com)
